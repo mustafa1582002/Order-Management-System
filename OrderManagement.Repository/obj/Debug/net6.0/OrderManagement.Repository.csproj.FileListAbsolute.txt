@@ -1,0 +1,15 @@
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\bin\Debug\net6.0\OrderManagement.Repository.deps.json
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\bin\Debug\net6.0\OrderManagement.Repository.dll
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\bin\Debug\net6.0\OrderManagement.Repository.pdb
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\bin\Debug\net6.0\OrderManagement.Core.dll
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\bin\Debug\net6.0\OrderManagement.Core.pdb
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\obj\Debug\net6.0\OrderManagement.Repository.csproj.AssemblyReference.cache
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\obj\Debug\net6.0\OrderManagement.Repository.GeneratedMSBuildEditorConfig.editorconfig
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\obj\Debug\net6.0\OrderManagement.Repository.AssemblyInfoInputs.cache
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\obj\Debug\net6.0\OrderManagement.Repository.AssemblyInfo.cs
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\obj\Debug\net6.0\OrderManagement.Repository.csproj.CoreCompileInputs.cache
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\obj\Debug\net6.0\OrderManagement.Repository.csproj.CopyComplete
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\obj\Debug\net6.0\OrderManagement.Repository.dll
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\obj\Debug\net6.0\refint\OrderManagement.Repository.dll
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\obj\Debug\net6.0\OrderManagement.Repository.pdb
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Repository\obj\Debug\net6.0\ref\OrderManagement.Repository.dll

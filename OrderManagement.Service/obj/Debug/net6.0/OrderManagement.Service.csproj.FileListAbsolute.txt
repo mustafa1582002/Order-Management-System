@@ -1,0 +1,17 @@
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\bin\Debug\net6.0\OrderManagement.Service.deps.json
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\bin\Debug\net6.0\OrderManagement.Service.dll
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\bin\Debug\net6.0\OrderManagement.Service.pdb
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\bin\Debug\net6.0\OrderManagement.Core.dll
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\bin\Debug\net6.0\OrderManagement.Core.pdb
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\obj\Debug\net6.0\OrderManagement.Service.csproj.AssemblyReference.cache
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\obj\Debug\net6.0\OrderManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\obj\Debug\net6.0\OrderManagement.Service.AssemblyInfoInputs.cache
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\obj\Debug\net6.0\OrderManagement.Service.AssemblyInfo.cs
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\obj\Debug\net6.0\OrderManagement.Service.csproj.CoreCompileInputs.cache
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\obj\Debug\net6.0\OrderManagement.Service.csproj.CopyComplete
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\obj\Debug\net6.0\OrderManagement.Service.dll
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\obj\Debug\net6.0\refint\OrderManagement.Service.dll
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\obj\Debug\net6.0\OrderManagement.Service.pdb
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\obj\Debug\net6.0\ref\OrderManagement.Service.dll
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\bin\Debug\net6.0\OrderManagement.Repository.dll
+F:\courses\Route\Projects\OrderManagement\OrderManagement.Service\bin\Debug\net6.0\OrderManagement.Repository.pdb
